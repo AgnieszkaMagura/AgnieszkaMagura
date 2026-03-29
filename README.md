@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Agnieszka! 👋
 
-<!--
-**AgnieszkaMagura/AgnieszkaMagura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Java Developer** passionate about building scalable backend systems and maintaining high code quality through modern architectural patterns and rigorous testing.
 
-Here are some ideas to get you started:
+### 🚀 Featured Project: [Lotto Service](https://github.com/AgnieszkaMagura/Lotto)
+A production-ready lottery system that showcases my core technical strengths:
+* **Architecture:** Hexagonal Architecture (Ports & Adapters) for clean domain logic.
+* **Tech Stack:** Java 17, Spring Boot, MongoDB, Redis.
+* **Testing:** Advanced integration testing with **Testcontainers** and **WireMock**.
+* **Cloud:** Deployed on **AWS (EC2)** using Docker Compose.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Tech Stack:
+* **Languages:** Java (17+), TypeScript
+* **Frameworks:** Spring Boot, Spring Security, React
+* **Database & Cache:** MongoDB, Redis
+* **DevOps & Tools:** Docker, AWS, Maven, Git, Swagger
+* **Testing:** JUnit5, Mockito, Testcontainers, WireMock, MockMvc
+
+### 📫 How to reach me:
+* **LinkedIn:** [Agnieszka Magura](https://www.linkedin.com/in/agnieszka-magura-0714241a8/)
+* **Email:** [agnieszka.magura@gmail.com]
+
+---
+*“Clean code always looks like it was written by someone who cares.”*
