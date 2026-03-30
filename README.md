@@ -15,7 +15,7 @@ I am a **Java Developer** passionate about building scalable backend systems and
 <br> 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=460&height=70&lines=I+am+open+to+work+🚀;Junior+Java+Developer+in+Poland+or+UK;I+am+into+Hexagonal+Architecture+⬡" alt="Agnieszka Magura Coding Profile" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&lines=Java+17+|+Spring+Boot+🚀;Hexagonal+Architecture+⬡;REST+API+Development;MongoDB+|+Redis+|+PostgreSQL;Docker+|+AWS+Deployment;JUnit5+|+Mockito+|+WireMock;React+|+TypeScript+Frontend" alt="Agnieszka Magura Tech Stack" />
 </div>
 
 ### 🛠️ My Tech Stack:
