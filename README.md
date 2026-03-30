@@ -60,7 +60,9 @@ I am a **Java Developer** passionate about building scalable backend systems and
 <details>
   <summary>📊 <b>Check my GitHub Stats</b></summary>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgnieszkaMagura&layout=compact&langs_count=7&theme=react&hide_border=true" alt="Agnieszka's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AgnieszkaMagura&show_icons=true&theme=react&hide_border=true" alt="Agnieszka's Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AgnieszkaMagura&theme=react&hide_border=true" alt="GitHub Streak" />
 </details>
 
 ### 🚀 Featured Full-Stack Projects
