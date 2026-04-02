@@ -1,104 +1,138 @@
-# Hi there, I'm Agnieszka! 👋
-
-I am a **Java Developer** passionate about building scalable backend systems and maintaining high code quality through modern architectural patterns and rigorous testing.
-
-## 👩‍💻 About Me
-
-* 🎓 **Graduate of Junior Java Ready 2.0** – gained commercial-level knowledge of backend development, including **SCRUM**, **Jira**, and **Jenkins**.
-* ☕ **CodeGym Graduate** – completed comprehensive Java Fundamentals training.
-* 🧩 **Algorithmic Enthusiast** – actively honing problem-solving skills on **Codewars** and **LeetCode**.
-* 🛠️ **Full-Stack Builder** – developing scalable systems with **Spring Boot**, **MongoDB**, **Redis**, and **AWS**.
-* 🚀 **Quality Advocate** – focused on **Clean Code**, **Hexagonal Architecture**, and high test coverage (JUnit, Mockito).
-* 📊 **Goal** – looking for a **Junior Java Developer** role.
-* 🌍 **Location** – Based in **UK** | Open to relocation to **Poland**.
-
-<br> 
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&lines=Java+17+|+Spring+Boot+🚀;Hexagonal+Architecture+⬡;REST+API+Development;MongoDB+|+Redis+|+PostgreSQL;Docker+|+AWS+Deployment;JUnit5+|+Mockito+|+WireMock;React+|+TypeScript+Frontend" alt="Agnieszka Magura Tech Stack" />
+  <h1>Hi there, I'm Agnieszka! 👋</h1>
+  <p>I am a <b>Java Developer</b> passionate about building scalable backend systems and maintaining high code quality through modern architectural patterns and rigorous testing.</p>
+
+<h2>👩‍💻 About Me</h2>
+  <ul style="list-style-type: none; padding: 0;">
+    <li>🎓 <b>Graduate of Junior Java Ready 2.0</b> – gained commercial-level knowledge of backend development.</li>
+    <li>☕ <b>CodeGym Graduate</b> – completed comprehensive Java Fundamentals training.</li>
+    <li>🧩 <b>Algorithmic Enthusiast</b> – actively honing problem-solving skills on <a href="https://www.codewars.com/users/AgnieszkaMagura">Codewars</a> and <a href="https://leetcode.com/u/AgnieszkaMagura/">LeetCode</a>.</li>
+    <li>🛠️ <b>Full-Stack Builder</b> – developing scalable systems with Spring Boot, MongoDB, Redis, and AWS.</li>
+    <li>🚀 <b>Quality Advocate</b> – focused on Clean Code, Hexagonal Architecture, and high test coverage.</li>
+    <li>📊 <b>Goal</b> – looking for a <b>Junior Java Developer</b> role.</li>
+    <li>🌍 <b>Location</b> – Based in <b>UK</b> | Open to relocation to <b>Poland</b>.</li>
+  </ul>
 </div>
 
-### 🛠️ My Tech Stack:
+---
 
-<table width="100%">
-  <tr>
-    <td valign="top">
-      <b>💻 Languages & Web Technologies</b><br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> &nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="50" height="50"/> &nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50"/> &nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> &nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="50" height="50"/>
-      <br/><br/>
-      <b>🗄️ Databases & Infrastructure</b><br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50"/> &nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50"/> &nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="50" height="50"/> &nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/> &nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/>
-      <br/><br/>
-      <b>⚙️ Version Control & Build Tools</b><br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50"/> &nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="50" height="50"/> &nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="50" height="50"/> &nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="maven" width="50" height="50"/> &nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="50" height="50"/>
-      <br/><br/>
-      <b>🛡️ Libraries, Testing & Security</b><br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="junit5" width="50" height="50"/> &nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/testcontainers/testcontainers-original.svg" alt="testcontainers" width="50" height="50"/> &nbsp;
-      <img src="https://www.vectorlogo.zone/logos/jwt/jwt-icon.svg" alt="jwt" width="50" height="50"/> &nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="swagger" width="50" height="50"/> &nbsp;
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> &nbsp;
-      <img src="https://www.vectorlogo.zone/logos/assertj/assertj-icon.svg" alt="assertj" width="50" height="50"/>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<details>
-  <summary>📊 <b>Check my GitHub Stats</b></summary>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=AgnieszkaMagura&show_icons=true&theme=react&hide_border=true" alt="Agnieszka's Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AgnieszkaMagura&theme=react&hide_border=true" alt="GitHub Streak" />
-</details>
-
-### 🚀 Featured Full-Stack Projects
-
-#### 🎰 [Lotto Service](https://github.com/AgnieszkaMagura/Lotto)
-[![Live Demo](https://img.shields.io/badge/demo-online-green.svg?style=for-the-badge&logo=amazonaws)](http://ec2-3-124-216-135.eu-central-1.compute.amazonaws.com/)
-[![GitHub Repo](https://img.shields.io/badge/repo-github-blue.svg?style=for-the-badge&logo=github)](https://github.com/AgnieszkaMagura/Lotto)
-
-A production-ready lottery system demonstrating **Hexagonal Architecture** and advanced testing.
-* **Full-Stack:** Integrated with a **React** & **TypeScript** [Frontend](https://github.com/AgnieszkaMagura/lotto-frontend).
-* **Architecture:** Hexagonal Architecture (Ports & Adapters) for clean domain logic.
-* **Infrastructure:** Deployed on **AWS (EC2)** using Docker Compose.
-* **Stack:** Java 17, Spring Boot, MongoDB, Redis, Testcontainers, WireMock.
-
-#### 💼 [Job Offers Aggregator](https://github.com/AgnieszkaMagura/JobOffers)
-A comprehensive system that fetches, stores, and displays job offers from external services.
-* **Full-Stack:** Interactive dashboard built with **React** & **TypeScript** [Frontend](https://github.com/AgnieszkaMagura/job-offers-frontend).
-* **Automation:** Automated data fetching using **Spring Scheduler**.
-* **Security:** Secure authentication and authorization implemented with **JWT**.
-* **Stack:** Java 17, Spring Boot, Spring Security, MongoDB, Docker.
-
-### 🛠️ My Tech Stack:
-* **Languages:** Java (17+), TypeScript
-* **Frameworks:** Spring Boot, Spring Security, React
-* **Database & Cache:** MongoDB, Redis
-* **DevOps & Tools:** Docker, AWS, Maven, Git, Swagger
-* **Testing:** JUnit5, Mockito, Testcontainers, WireMock, MockMvc
-
-### 📫 How to reach me:
-
-<a href="https://www.linkedin.com/in/agnieszka-magura-0714241a8/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:agnieszka.magura@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=70&lines=Java+17+|+Spring+Framework+🌿;Spring+Boot+🚀+|+Spring+Security+🔐;Hibernate+ORM+|+Hexagonal+Architecture;REST+API+|+Swagger+UI;MongoDB+|+Redis+|+PostgreSQL;Docker+|+AWS+Deployment+☁️;JUnit5+|+Mockito+|+MockMvc;Testcontainers+|+WireMock+🧪;Apache+Maven+|+Jenkins+|+Jira;React+|+TypeScript+Frontend" alt="Agnieszka Magura Tech Stack" />
+</div>
 
 ---
-*“Clean code always looks like it was written by someone who cares.”*
+
+<div align="center">
+  <h3>🛠️ My Tech Stack</h3>
+
+<b>Languages & Frameworks</b><br>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-025E8C?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Spring Scheduler](https://img.shields.io/badge/Spring_Scheduler-6DB33F?style=for-the-badge&logo=spring)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+<br><b>Databases & Infrastructure</b><br>
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+<br><b>Testing, Architecture & Quality</b><br>
+![Hexagonal Architecture](https://img.shields.io/badge/Hexagonal_Architecture-%230052FF?style=for-the-badge&logo=architecture&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78AB25?style=for-the-badge&logo=mockito&logoColor=white)
+![MockMvc](https://img.shields.io/badge/MockMvc-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Testcontainers](https://img.shields.io/badge/Testcontainers-316192?style=for-the-badge&logo=testcontainers&logoColor=white)
+![WireMock](https://img.shields.io/badge/WireMock-FF6C37?style=for-the-badge&logo=wiremock&logoColor=white)
+
+<br><b>Tools & DevProcess</b><br>
+![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=atlassian&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%2385EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+---
+
+<div align="center">
+  <details>
+    <summary>📊 <b>GitHub Profile Contributions & Coding Stats</b></summary>
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=AgnieszkaMagura&show_icons=true&theme=react&hide_border=true" alt="Agnieszka's Stats" />
+    <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AgnieszkaMagura&theme=react&hide_border=true" alt="GitHub Streak" />
+  </details>
+</div>
+
+---
+
+<div align="center">
+  <h3>🚀 Featured Full-Stack Projects</h3>
+
+  <h4>🎰 <a href="https://github.com/AgnieszkaMagura/Lotto">Lotto Service</a></h4>
+  <a href="http://ec2-3-124-216-135.eu-central-1.compute.amazonaws.com/">
+  ![Live Demo](https://img.shields.io/badge/demo-online-green.svg?style=for-the-badge&logo=amazonaws)
+  </a>
+  <a href="http://ec2-3-124-216-135.eu-central-1.compute.amazonaws.com:8000/swagger-ui/index.html">
+  ![Swagger Docs](https://img.shields.io/badge/API_Docs-Swagger-85EA2D.svg?style=for-the-badge&logo=swagger)
+  </a>
+  <a href="https://github.com/AgnieszkaMagura/Lotto">
+  ![GitHub Repo](https://img.shields.io/badge/repo-github-blue.svg?style=for-the-badge&logo=github)
+  </a>
+
+  <p>A production-ready lottery system demonstrating <b>Hexagonal Architecture</b> and advanced testing.</p>
+  <ul style="list-style-type: none; padding: 0;">
+    <li><b>Full-Stack:</b> Integrated with a <b>React</b> & <b>TypeScript</b> Frontend.</li>
+    <li><b>Architecture:</b> Hexagonal Architecture (Ports & Adapters) for clean domain logic.</li>
+    <li><b>API Documentation:</b> Interactive documentation via <b>Swagger UI</b>.</li>
+    <li><b>Stack:</b> Java 17, Spring Boot, MongoDB, Redis, Testcontainers, WireMock.</li>
+  </ul>
+
+  <br>
+
+<h4>💼 <a href="https://github.com/AgnieszkaMagura/JobOffers">Job Offers Aggregator</a></h4>
+<a href="http://3.124.216.135:8082/">
+![Live Demo](https://img.shields.io/badge/demo-online-green.svg?style=for-the-badge&logo=amazonaws)
+</a>
+<a href="http://3.124.216.135:8081/swagger-ui/index.html">
+![Swagger Docs](https://img.shields.io/badge/API_Docs-Swagger-85EA2D.svg?style=for-the-badge&logo=swagger)
+</a>
+<a href="https://github.com/AgnieszkaMagura/JobOffers">
+![GitHub Repo](https://img.shields.io/badge/repo-github-blue.svg?style=for-the-badge&logo=github)
+</a>
+
+  <p>A comprehensive system that fetches, stores, and displays job offers from external services.</p>
+  <ul style="list-style-type: none; padding: 0;">
+    <li><b>Automation:</b> Automated data fetching using <b>Spring Scheduler</b> and <b>Redis</b>.</li>
+    <li><b>Security:</b> Secure authentication and authorization implemented with <b>JWT</b>.</li>
+    <li><b>API Documentation:</b> Fully documented endpoints using <b>Swagger UI</b>.</li>
+    <li><b>Stack:</b> Java 17, Spring Boot, Spring Security, MongoDB, Redis, Docker, AWS.</li>
+  </ul>
+</div>
+
+---
+
+<div align="center">
+  <h3>📫 How to reach me:</h3>
+  <a href="https://www.linkedin.com/in/agnieszka-magura-0714241a8/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:agnieszka.magura@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+
+<br><br>
+  <hr style="border: 0; border-top: 1px solid #eee; width: 50%;">
+  <br>
+
+  <p><i>"Clean code always looks like it was written by someone who cares."</i></p>
+  <br>
+</div>
