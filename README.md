@@ -111,8 +111,9 @@
 <div align="center">
   <hr style="border: 0; border-top: 1px solid #eee; width: 50%; margin: 20px auto;">
   <h3>📫 How to reach me:</h3>
-  <a href="https://www.linkedin.com/in/agnieszka-magura-0714241a8/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:agnieszka.magura@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.linkedin.com/in/agnieszka-magura-java/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>  <a href="mailto:agnieszka.magura@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
   <br><br>
   <p><i>"Clean code always looks like it was written by someone who cares."</i></p>
