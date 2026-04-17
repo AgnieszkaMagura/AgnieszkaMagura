@@ -14,7 +14,7 @@
   <p>🛠️ <b>Full-Stack Builder</b> – developing scalable systems with Spring Boot, MongoDB, Redis, and AWS.</p>
   <p>🚀 <b>Quality Advocate</b> – focused on Clean Code, Hexagonal Architecture, and high test coverage.</p>
   <p>📊 <b>Goal</b> – looking for a <b>Junior Java Developer</b> role.</p>
-  <p>🌍 <b>Location</b> – Based in <b>UK</b> | Open to relocation to <b>Poland</b>.</p>
+  <p>🌍 <b>Location</b> – Based in <b>UK</b>.</p>
 </div>
 
 ---
