@@ -20,7 +20,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=70&lines=Java+17+|+Spring+Framework+🌿;Spring+Boot+🚀+|+Spring+Security+🔐;Hibernate+ORM+|+Hexagonal+Architecture;REST+API+|+Swagger+UI;MongoDB+|+Redis+|+PostgreSQL;Docker+|+AWS+Deployment+☁️;JUnit5+|+Mockito+|+MockMvc;Testcontainers+|+WireMock+🧪;Apache+Maven+|+Jenkins+|+Jira;React+|+TypeScript+Frontend" alt="Agnieszka Magura Tech Stack" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=70&lines=Java+17+|+Spring+Framework+🌿;Spring+Boot+🚀+|+Spring+Security+🔐;Hibernate+ORM+|+Hexagonal+Architecture;REST+API+|+Swagger+UI;MongoDB+|+Redis+|+PostgreSQL;Docker+|+AWS+Deployment+☁️;JUnit5+|+Mockito+|+MockMvc;Testcontainers+|+WireMock+🧪;Apache+Maven+|+Jenkins+Jira" alt="Agnieszka Magura Tech Stack" />
 </div>
 
 ---
@@ -37,8 +37,6 @@
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Spring Scheduler](https://img.shields.io/badge/Spring_Scheduler-6DB33F?style=for-the-badge&logo=spring)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 <br><b>Databases & Infrastructure</b><br>
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
