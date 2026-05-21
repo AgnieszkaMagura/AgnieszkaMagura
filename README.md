@@ -77,7 +77,7 @@
 ---
 
 <div align="center">
-  <h3>🚀 Featured Full-Stack Projects</h3>
+  <h3>🚀 Featured Backend Projects (with Frontend Clients)</h3>
 
 <h4>🎰 <a href="https://github.com/AgnieszkaMagura/Lotto">Lotto Service</a></h4>
   <p>
@@ -86,8 +86,8 @@
     <a href="https://github.com/AgnieszkaMagura/Lotto"><img src="https://img.shields.io/badge/repo-github-blue.svg?style=for-the-badge&logo=github" alt="GitHub Repo"></a>
   </p>
   <p>A production-ready lottery system demonstrating <b>Hexagonal Architecture</b> and advanced testing.</p>
-  <p><b>Full-Stack:</b> Integrated with a <b>React</b> & <b>TypeScript</b> Frontend.</p>
-  <p><b>Architecture:</b> Hexagonal Architecture (Ports & Adapters) for clean domain logic.</p>
+  <p>Architecture: Robust Spring Boot backend built with Hexagonal Architecture (Ports & Adapters).
+Frontend: Dedicated user interface client built with React and TypeScript.</p>
   <p><b>API Documentation:</b> Interactive documentation via <b>Swagger UI</b>.</p>
   <p><b>Stack:</b> Java 17, Spring Boot, MongoDB, Redis, Testcontainers, WireMock.</p>
 
