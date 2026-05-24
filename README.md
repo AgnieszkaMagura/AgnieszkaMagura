@@ -7,15 +7,16 @@
 
 <div align="center">
   <h2>👩‍💻 About Me</h2>
-<p>🎓 <b><a href="https://www.linkedin.com/in/agnieszka-magura-java/overlay/certifications/" target="_blank">Graduate of Junior Java Ready 2.0 & Spring Ready</a></b> – gained comprehensive backend and production-level knowledge, covering core frameworks, CI/CD, and Agile methodologies (SCRUM, Jira, Jenkins).</p>  <p>🎓 <b>Zajavka Bootcamp Graduate</b> – completed 100% of an intensive, comprehensive program totaling <b>over 300 hours</b> of practical Java development.<br />
-  🔹 <a href="https://www.udemy.com/certificate/UC-68c33daa-e2b1-4dbd-922d-f1b39e174608/" target="_blank" style="text-decoration: none; color: inherit;"><b>Phase 1 (86h):</b></a> Intensive core Java bootcamp and practical fundamentals.<br />
-  🔹 <a href="https://www.udemy.com/certificate/UC-7704a651-3685-47a4-9618-353e488f2559/" target="_blank" style="text-decoration: none; color: inherit;"><b>Phase 2 (223.5h):</b></a> "22 Workshops for Java Developers" focusing on advanced backend systems with <b>Spring Boot, REST APIs, Docker, and AWS</b>.</p>
-  <p>☕ <b>CodeGym Explorer</b> – reached <b>Level 22</b> with <b>500+ solved tasks</b>; currently expanding into <b>Java 25</b> and <b>Docker</b>.</p>
-  <p>🧩 <b>Algorithmic Enthusiast</b> – honing skills on <a href="https://www.codewars.com/users/AgnieszkaMagura">Codewars</a>, <a href="https://leetcode.com/u/AgnieszkaMagura/">LeetCode</a> and <a href="https://www.hackerrank.com/domains/java">HackerRank</a> (working towards Java Gold Badge).</p>
-  <p>🛠️ <b>Backend Developer</b> – developing scalable systems using <b>Spring Boot, REST APIs, Spring Security, Docker, AWS, PostgreSQL, MongoDB, and Redis</b>.</p>
+<p>🎓 <a href="https://linkedin.com/feed/update/urn:li:activity:7449572267526782976/" target="_blank" style="text-decoration: none; color: inherit;"><b>Graduate of Junior Java Ready 2.0 & Spring Ready</b></a> – gained comprehensive backend and production-level knowledge, covering core frameworks, CI/CD, and Agile methodologies (SCRUM, Jira, Jenkins).</p>
+  <p>🎓 <b>Zajavka Bootcamp Graduate</b> – completed 100% of an intensive, comprehensive program totaling <b>over 300 hours</b> of practical Java development.</p>
+  <p>🔹 <a href="https://www.udemy.com/certificate/UC-68c33daa-e2b1-4dbd-922d-f1b39e174608/" target="_blank" style="text-decoration: none; color: inherit;"><b>Phase 1 (86h)</b></a>: Intensive core Java bootcamp and practical fundamentals.</p>
+  <p>🔹 <a href="https://www.udemy.com/certificate/UC-7704a651-3685-47a4-9610-353e488f2559/" target="_blank" style="text-decoration: none; color: inherit;"><b>Phase 2 (223.5h)</b></a>: "22 Workshops for Java Developers" focusing on advanced backend systems with <b>Spring Boot, REST APIs, Docker, and AWS.</b></p>
+  <p>🎯 <b>CodeGym Explorer</b> – reached <b>Level 22</b> with <b>500+ solved tasks</b>; currently expanding into <b>Java 21 and Docker.</b></p>
+  <p>🧩 <b>Algorithmic Enthusiast</b> – honing skills on <a href="https://www.codewars.com/users/AgnieszkaMagura">Codewars</a>, <a href="https://leetcode.com/u/AgnieszkaMagura/">LeetCode</a>, and <a href="https://www.hackerrank.com/domains/java">HackerRank</a> (working towards Java Gold Badge).</p>
+  <p>⚙️ <b>Backend Developer</b> – developing scalable systems using <b>Spring Boot, REST APIs, Spring Security, Docker, AWS, PostgreSQL, MongoDB, and Redis.</b></p>
   <p>🚀 <b>Quality Advocate</b> – focused on Clean Code, Hexagonal Architecture, and high test coverage.</p>
-  <p>📊 <b>Goal</b> – looking for a <b>Junior Java Developer</b> role.</p>
-  <p>🌍 <b>Location:</b><b> Bristol, United Kingdom</b>.</p>
+  <p>🎯 <b>Goal</b> – looking for a <b>Junior Java Developer</b> role.</p>
+  <p>🌍 <b>Location</b> – Bristol, United Kingdom.</p>
 </div>
 
 ---
